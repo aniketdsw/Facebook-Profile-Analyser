@@ -21,7 +21,7 @@ rm(list = ls())
 
 ######### Add the data directory link here  #########
 
-Data_directory <- 'C:\\Users\\ANIKKUM\\Desktop\\IIITB\\FB data'
+Data_directory <- ''
 
 #######################################################
 
